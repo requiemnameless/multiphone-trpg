@@ -1,3 +1,4 @@
+/// RealmBoard App 入口 — 初始化遊戲協調器並啟動主畫面
 import SwiftUI
 
 @main

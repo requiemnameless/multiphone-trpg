@@ -1,3 +1,4 @@
+/// Color 擴展 — 支援以 HEX 字串建立 SwiftUI Color
 import SwiftUI
 
 extension Color {

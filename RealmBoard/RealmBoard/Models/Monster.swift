@@ -1,3 +1,4 @@
+/// 怪物模型 — 定義 D&D 怪物的種類、屬性、攻擊方式與難度分級
 import Foundation
 
 // MARK: - 怪物類別

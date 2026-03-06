@@ -1,3 +1,4 @@
+/// 多裝置地圖拼接引擎 — 將多台 iPhone/iPad 螢幕無縫拼接成一張大地圖
 import Foundation
 import CoreMotion
 import Combine

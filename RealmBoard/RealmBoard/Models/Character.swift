@@ -1,3 +1,4 @@
+/// 角色模型 — 定義 D&D 風格的種族、職業、屬性值與玩家角色資料結構
 import Foundation
 
 // MARK: - 種族 (Race)
