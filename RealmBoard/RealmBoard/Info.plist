@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>RealmBoard</string>
+    <key>CFBundleDisplayName</key>
+    <string>RealmBoard</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.realmboard.trpg</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+    <key>UIRequiredDeviceCapabilities</key>
+    <array>
+        <string>armv7</string>
+    </array>
+    <key>NSLocalNetworkUsageDescription</key>
+    <string>RealmBoard 需要使用本地網路來連接附近的裝置，以進行多人遊戲地圖拼接。</string>
+    <key>NSBonjourServices</key>
+    <array>
+        <string>_realmboard-trpg._tcp</string>
+        <string>_realmboard-trpg._udp</string>
+    </array>
+    <key>UIApplicationSceneManifest</key>
+    <dict>
+        <key>UIApplicationSupportsMultipleScenes</key>
+        <false/>
+    </dict>
+</dict>
+</plist>
